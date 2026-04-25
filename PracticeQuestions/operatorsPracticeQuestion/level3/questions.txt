@@ -1,0 +1,13 @@
+Take a number and print:
+"Fizz" if divisible by 3
+"Buzz" if divisible by 5
+"FizzBuzz" if divisible by both
+
+Take 3 numbers:
+print the smallest number
+
+Take a number:
+check if it is 3-digit or not
+
+Take a number:
+check if it is even AND greater than 50
