@@ -1,0 +1,17 @@
+create a simple grading system:
+90–100 → A
+80–89 → B
+70–79 → C
+below 70 → Fail
+
+
+Electricity bill system:
+units ≤ 100 → ₹5 per unit
+101–200 → ₹7 per unit
+200 → ₹10 per unit
+
+Login system simulation:
+username = "admin"
+password = "1234"
+Print:
+"Login success" or "Login failed"

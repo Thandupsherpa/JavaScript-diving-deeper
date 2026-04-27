@@ -1,0 +1,6 @@
+Check if a number is:
+prime or not
+
+Reverse a number (no loops yet—try logic)
+
+Check if a number is a palindrome (e.g. 121)

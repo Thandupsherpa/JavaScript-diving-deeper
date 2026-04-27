@@ -53,3 +53,6 @@ const evenAndGreaterThanFifty = num % 2 === 0 && num > 50
 console.log(evenAndGreaterThanFifty);
                                  
 
+console.log(10 + "20" + 30);
+console.log(10 + 20 + "30");
+console.log(true + false + true);
